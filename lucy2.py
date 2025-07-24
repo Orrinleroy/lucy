@@ -47,10 +47,10 @@ app_paths = {
     "firefox": r"C:\Program Files\Mozilla Firefox\firefox.exe",
     "valorant": r"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Riot Games\VALORANT.lnk",
     "notepad": r"C:\Windows\System32\notepad.exe",
-    "spotify": r"C:\Users\Orrin\AppData\Roaming\Spotify\Spotify.exe",
+    "spotify": r"C:\Users\<username>\AppData\Roaming\Spotify\Spotify.exe",
     "vscode": r"D:\Microsoft VS Code\Code.exe",
     "calculator": r"C:\Windows\System32\calc.exe",
-    "discord": r"C:\Users\Orrin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc",
+    "discord": r"C:\Users\<username>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc",
 }
 
 command_map = defaultdict(list)
